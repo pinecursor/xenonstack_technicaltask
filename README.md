@@ -46,5 +46,6 @@ That's it. Now you can browse projects inside your htdocs.
 
 ![image](https://user-images.githubusercontent.com/72434822/181062328-9e051063-f61b-4bd9-986b-b3f751e060df.png)
 
+Heroku Deployed Link: https://xenonstacktechnicalanubhab.herokuapp.com/
 
 
