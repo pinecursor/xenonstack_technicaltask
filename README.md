@@ -4,6 +4,10 @@ I have used Html, css, bootstrap for UI/frontend part
 And PHP as backend
 Mysql for storing database
 
+by,
+Anubhab Banerjee
+1929296
+
 # Prerequisites
 XAMPP 3 or later
 Operating System: Any OS where XAMPP support.
